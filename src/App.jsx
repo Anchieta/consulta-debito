@@ -25,7 +25,7 @@ function App() {
                   <h3>Identificação	do Veículo</h3>
                   <fieldset>
                       <div className="label">
-                          <label htmlFor="Renavan">Renavan</label>
+                          <label htmlFor="Renavan">Renavan:</label>
                       </div>
                       <div className="input">
                          <input type="number" id="renavan" name="renavan" required  placeholder='Renavan'/>
@@ -33,7 +33,7 @@ function App() {
                   </fieldset>
                   <fieldset>
                     <div className="label">
-                        <label htmlFor="Placa">Placa</label>
+                        <label htmlFor="Placa">Placa:</label>
                     </div>
                     <div className="input">
                         <input type="text" id="placa" name="placa" required  placeholder='Placa' />
